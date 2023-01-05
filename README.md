@@ -1,6 +1,6 @@
 # Linux_DBA_Postgres_Security
 
-İşbu dokümanı TOFAŞ A.Ş. IT departmanında yapmış olduğum uzun dönem stajyerlik dönemimde (2021-2022 Dönemi), veri tabanı mühendisleri tarafından yürütülen **"PostgreSQL Hardening"** projesi kapsamında hazırladım.
+Bu dokümanı TOFAŞ A.Ş. IT departmanında yapmış olduğum uzun dönem stajyerlik dönemimde (2021-2022 Dönemi), veri tabanı mühendisleri tarafından yürütülen **"PostgreSQL Hardening"** projesi kapsamında hazırladım.
 
 Doküman **içeriği** şu şekilde;
 
